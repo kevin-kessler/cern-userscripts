@@ -23,7 +23,7 @@ Available userscripts are grouped below based on target-audience. Click on the `
 
 - GitLab
 
-  - Auto-collapse threads on resolve ([Install](https://github.com/7PH/userscript-gitlab-auto-collapse-threads/raw/master/gitlab-auto-collapse-threads.user.js))
+  - Auto-collapse threads on resolve ([Install](https://github.com/kevin-kessler/cern-userscripts/raw/refs/heads/master/src/gitlab.cern.ch/gitlab-auto-collapse-threads.user.js))
 
 - HireFlix
 
