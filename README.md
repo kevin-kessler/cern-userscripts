@@ -14,7 +14,7 @@ Available userscripts are grouped below based on target-audience. Click on the `
 
 - EDH
 
-  - Absence Overview ([Install](https://github.com/7PH/cern-userscripts/raw/refs/heads/master/src/edh.cern.ch/fix-absence-overview.user.js))
+  - Absence Overview ([Install](https://github.com/kevin-kessler/cern-userscripts/raw/refs/heads/master/src/edh.cern.ch/fix-absence-overview.user.js))
     - Add user-pinning feature
     - Add months and day labels
     - Automatically show data starting from previous Monday on page load
@@ -27,12 +27,12 @@ Available userscripts are grouped below based on target-audience. Click on the `
 
 - HireFlix
 
-  - Add "Download" button to submitted interview page ([Install](https://github.com/7PH/cern-userscripts/raw/refs/heads/master/src/hireflix.com/hireflix-download-interview-submissions-button.user.js))
+  - Add "Download" button to submitted interview page ([Install](https://github.com/kevin-kessler/cern-userscripts/raw/refs/heads/master/src/hireflix.com/hireflix-download-interview-submissions-button.user.js))
 
 - JIRA
-  - Move comment input near the latest comment ([Install](https://github.com/7PH/cern-userscripts/raw/refs/heads/master/src/its.cern.ch/jira-fix-comment-input.user.js))
-  - Click on an issue title in a sprint board will open in a new tab instead of the side panel ([Install](https://github.com/7PH/cern-userscripts/raw/refs/heads/master/src/its.cern.ch/jira-fix-links.user.js))
-  - Collapse Kanban board columns by clicking on their header ([Install](https://github.com/7PH/cern-userscripts/raw/refs/heads/master/src/its.cern.ch/jira-collapsible-columns.user.js))
+  - Move comment input near the latest comment ([Install](https://github.com/kevin-kessler/cern-userscripts/raw/refs/heads/master/src/its.cern.ch/jira-fix-comment-input.user.js))
+  - Click on an issue title in a sprint board will open in a new tab instead of the side panel ([Install](https://github.com/kevin-kessler/cern-userscripts/raw/refs/heads/master/src/its.cern.ch/jira-fix-links.user.js))
+  - Collapse Kanban board columns by clicking on their header ([Install](https://github.com/kevin-kessler/cern-userscripts/raw/refs/heads/master/src/its.cern.ch/jira-collapsible-columns.user.js))
 
 ### SY-EPC-CCS specific
 
@@ -40,4 +40,4 @@ These userscripts are likely only interesting for you if you are in `SY-EPC-CCS`
 
 - GitLab
 
-  - Add link to the MR Generator from merge request pages ([Install](https://github.com/7PH/cern-userscripts/raw/refs/heads/master/src/gitlab.cern.ch/gitlab-mr-generator-button.user.js))
+  - Add link to the MR Generator from merge request pages ([Install](https://github.com/kevin-kessler/cern-userscripts/raw/refs/heads/master/src/gitlab.cern.ch/gitlab-mr-generator-button.user.js))

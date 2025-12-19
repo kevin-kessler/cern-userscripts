@@ -1,18 +1,18 @@
 // ==UserScript==
 // @name         CERN EDH Fix Absence Overview
-// @namespace    https://github.com/7PH
+// @namespace    https://github.com/kevin-kessler
 // @version      0.3.1
 // @description  Fixes issues with the AbsenceOverview page.
 // @author       7PH (https://github.com/7PH)
 // @match        https://edh.cern.ch/Document/Claims/AbsenceOverview*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=cern.ch
 // @grant        none
-// @homepage     https://github.com/7PH/cern-userscripts
-// @homepageURL  https://github.com/7PH/cern-userscripts
-// @source       https://github.com/7PH/cern-userscripts
-// @supportURL   https://github.com/7PH/cern-userscripts/issues
-// @updateURL    https://raw.githubusercontent.com/7PH/cern-userscripts/master/src/edh.cern.ch/fix-absence-overview.user.js
-// @downloadURL  https://raw.githubusercontent.com/7PH/cern-userscripts/master/src/edh.cern.ch/fix-absence-overview.user.js
+// @homepage     https://github.com/kevin-kessler/cern-userscripts
+// @homepageURL  https://github.com/kevin-kessler/cern-userscripts
+// @source       https://github.com/kevin-kessler/cern-userscripts
+// @supportURL   https://github.com/kevin-kessler/cern-userscripts/issues
+// @updateURL    https://raw.githubusercontent.com/kevin-kessler/cern-userscripts/master/src/edh.cern.ch/fix-absence-overview.user.js
+// @downloadURL  https://raw.githubusercontent.com/kevin-kessler/cern-userscripts/master/src/edh.cern.ch/fix-absence-overview.user.js
 // ==/UserScript==
 
 /**
@@ -319,15 +319,15 @@
     function highlightCurrentDayColumn() {
         const fromDate = getDateFromInput(SELECTORS.FROM_DATE_INPUT);
         const toDate = getDateFromInput(SELECTORS.TO_DATE_INPUT);
-        
+
         const today = new Date();
         today.setHours(0, 0, 0, 0); // Reset time to midnight
-    
+
         // If current date isn't in the selected range, nothing to do
         if (today < fromDate || today > toDate) {
             return;
         }
-    
+
         // Calculate the difference in days between fromDate and today
         const msPerDay = 24 * 60 * 60 * 1000;
         const colIndex = Math.floor((today - fromDate) / msPerDay);
@@ -360,7 +360,7 @@
             }
         }
     }
-    
+
 
     loadFavorites();
 
