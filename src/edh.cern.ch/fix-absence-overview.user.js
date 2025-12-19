@@ -1,18 +1,18 @@
 // ==UserScript==
 // @name         CERN EDH Fix Absence Overview
-// @namespace    https://github.com/7PH
+// @namespace    https://github.com/kevin-kessler
 // @version      0.3.3
 // @description  Fixes issues with the AbsenceOverview page.
 // @author       7PH (https://github.com/7PH)
 // @match        https://edh.cern.ch/Document/Claims/AbsenceOverview*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=cern.ch
 // @grant        none
-// @homepage     https://github.com/7PH/cern-userscripts
-// @homepageURL  https://github.com/7PH/cern-userscripts
-// @source       https://github.com/7PH/cern-userscripts
-// @supportURL   https://github.com/7PH/cern-userscripts/issues
-// @updateURL    https://raw.githubusercontent.com/7PH/cern-userscripts/master/src/edh.cern.ch/fix-absence-overview.user.js
-// @downloadURL  https://raw.githubusercontent.com/7PH/cern-userscripts/master/src/edh.cern.ch/fix-absence-overview.user.js
+// @homepage     https://github.com/kevin-kessler/cern-userscripts
+// @homepageURL  https://github.com/kevin-kessler/cern-userscripts
+// @source       https://github.com/kevin-kessler/cern-userscripts
+// @supportURL   https://github.com/kevin-kessler/cern-userscripts/issues
+// @updateURL    https://raw.githubusercontent.com/kevin-kessler/cern-userscripts/master/src/edh.cern.ch/fix-absence-overview.user.js
+// @downloadURL  https://raw.githubusercontent.com/kevin-kessler/cern-userscripts/master/src/edh.cern.ch/fix-absence-overview.user.js
 // ==/UserScript==
 
 /**

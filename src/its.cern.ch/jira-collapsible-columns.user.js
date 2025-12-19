@@ -1,20 +1,20 @@
 // ==UserScript==
 // @name         CERN JIRA Add collapsible columns in Kanban boards
-// @namespace    https://github.com/7PH
+// @namespace    https://github.com/kevin-kessler
 // @version      0.0.1
 // @description  Add collapsible columns in JIRA Kanban boards (click on a column header to collapse it)
 // @author       7PH (https://github.com/7PH)
 // @match        https://its.cern.ch/jira/secure/RapidBoard.jspa?rapidView=*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=cern.ch
 // @grant        none
-// @homepage     https://github.com/7PH/cern-userscripts
-// @homepageURL  https://github.com/7PH/cern-userscripts
-// @source       https://github.com/7PH/cern-userscripts
-// @supportURL   https://github.com/7PH/cern-userscripts/issues
-// @updateURL    https://github.com/7PH/cern-userscripts/raw/refs/heads/master/src/its.cern.ch/jira-collapsible-columns.user.js
-// @downloadURL  https://github.com/7PH/cern-userscripts/raw/refs/heads/master/src/its.cern.ch/jira-collapsible-columns.user.js
+// @homepage     https://github.com/kevin-kessler/cern-userscripts
+// @homepageURL  https://github.com/kevin-kessler/cern-userscripts
+// @source       https://github.com/kevin-kessler/cern-userscripts
+// @supportURL   https://github.com/kevin-kessler/cern-userscripts/issues
+// @updateURL    https://github.com/kevin-kessler/cern-userscripts/raw/refs/heads/master/src/its.cern.ch/jira-collapsible-columns.user.js
+// @downloadURL  https://github.com/kevin-kessler/cern-userscripts/raw/refs/heads/master/src/its.cern.ch/jira-collapsible-columns.user.js
 // ==/UserScript==
-// 
+//
 
 (function() {
     'use strict';

@@ -1,18 +1,18 @@
 // ==UserScript==
 // @name         Fix hyperlinks in JIRA sprint boards
-// @namespace    https://github.com/7PH
+// @namespace    https://github.com/kevin-kessler
 // @version      0.0.1
 // @description  Fixes hyperlinks in JIRA sprint boards.
 // @author       7PH (https://github.com/7PH)
 // @match        https://its.cern.ch/jira/secure/RapidBoard.jspa?rapidView=*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=cern.ch
 // @grant        none
-// @homepage     https://github.com/7PH/cern-userscripts
-// @homepageURL  https://github.com/7PH/cern-userscripts
-// @source       https://github.com/7PH/cern-userscripts
-// @supportURL   https://github.com/7PH/cern-userscripts/issues
-// @updateURL    https://raw.githubusercontent.com/7PH/cern-userscripts/master/src/its.cern.ch/jira-fix-links.user.js
-// @downloadURL  https://raw.githubusercontent.com/7PH/cern-userscripts/master/src/its.cern.ch/jira-fix-links.user.js
+// @homepage     https://github.com/kevin-kessler/cern-userscripts
+// @homepageURL  https://github.com/kevin-kessler/cern-userscripts
+// @source       https://github.com/kevin-kessler/cern-userscripts
+// @supportURL   https://github.com/kevin-kessler/cern-userscripts/issues
+// @updateURL    https://raw.githubusercontent.com/kevin-kessler/cern-userscripts/master/src/its.cern.ch/jira-fix-links.user.js
+// @downloadURL  https://raw.githubusercontent.com/kevin-kessler/cern-userscripts/master/src/its.cern.ch/jira-fix-links.user.js
 // ==/UserScript==
 
 (async function() {

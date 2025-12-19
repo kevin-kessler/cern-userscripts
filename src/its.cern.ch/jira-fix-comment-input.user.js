@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         CERN JIRA Move comment input near the latest comment
-// @namespace    https://github.com/7PH
+// @namespace    https://github.com/kevin-kessler
 // @version      0.0.2
 // @description  Moves the comment input next to the latest comment (top of the activity panel when showing newest first)
 // @author       7PH (https://github.com/7PH)
@@ -8,12 +8,12 @@
 // @match        https://its.cern.ch/jira/projects/*/issues/*-*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=cern.ch
 // @grant        none
-// @homepage     https://github.com/7PH/cern-userscripts
-// @homepageURL  https://github.com/7PH/cern-userscripts
-// @source       https://github.com/7PH/cern-userscripts
-// @supportURL   https://github.com/7PH/cern-userscripts/issues
-// @updateURL    https://github.com/7PH/cern-userscripts/raw/refs/heads/master/src/its.cern.ch/jira-fix-comment-input.user.js
-// @downloadURL  https://github.com/7PH/cern-userscripts/raw/refs/heads/master/src/its.cern.ch/jira-fix-comment-input.user.js
+// @homepage     https://github.com/kevin-kessler/cern-userscripts
+// @homepageURL  https://github.com/kevin-kessler/cern-userscripts
+// @source       https://github.com/kevin-kessler/cern-userscripts
+// @supportURL   https://github.com/kevin-kessler/cern-userscripts/issues
+// @updateURL    https://github.com/kevin-kessler/cern-userscripts/raw/refs/heads/master/src/its.cern.ch/jira-fix-comment-input.user.js
+// @downloadURL  https://github.com/kevin-kessler/cern-userscripts/raw/refs/heads/master/src/its.cern.ch/jira-fix-comment-input.user.js
 // ==/UserScript==
 
 (() => {
