@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Hireflix Download Interview Submissions Button
-// @namespace    https://github.com/7PH
+// @namespace    https://github.com/kevin-kessler
 // @version      0.1.0
 // @description  Add a "Download All" button to download all videos from a Hireflix interview submission
 // @author       Kevin Kessler (https://github.com/kevin-kessler)
@@ -8,12 +8,12 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=hireflix.com
 // @grant        none
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js
-// @homepage     https://github.com/7PH/cern-userscripts
-// @homepageURL  https://github.com/7PH/cern-userscripts
-// @source       https://github.com/7PH/cern-userscripts
-// @supportURL   https://github.com/7PH/cern-userscripts/issues
-// @updateURL    https://github.com/7PH/cern-userscripts/raw/refs/heads/master/src/hireflix.com/hireflix-download-interview-submissions-button.user.js
-// @downloadURL  https://github.com/7PH/cern-userscripts/raw/refs/heads/master/src/hireflix.com/hireflix-download-interview-submissions-button.user.js
+// @homepage     https://github.com/kevin-kessler/cern-userscripts
+// @homepageURL  https://github.com/kevin-kessler/cern-userscripts
+// @source       https://github.com/kevin-kessler/cern-userscripts
+// @supportURL   https://github.com/kevin-kessler/cern-userscripts/issues
+// @updateURL    https://github.com/kevin-kessler/cern-userscripts/raw/refs/heads/master/src/hireflix.com/hireflix-download-interview-submissions-button.user.js
+// @downloadURL  https://github.com/kevin-kessler/cern-userscripts/raw/refs/heads/master/src/hireflix.com/hireflix-download-interview-submissions-button.user.js
 // ==/UserScript==
 
 (function() {
